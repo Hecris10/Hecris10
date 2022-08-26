@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Helaman Ewerton
-- 👀 I’m interested in Web Development including Froned and Backend as well.
-- 🌱 I’m currently learning React Js ...
-- 💞️ I’m looking to collaborate on Web Dev project...
+- 👀 I’m Web Developmer and System Analyst.
+- 🌱 I’m currently working as a Dev on Lab Management Softwares for Global companies as PepsiCo and BASF.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 You cand find me at ewerton.webdev@gmail.com.
 
 <!---
