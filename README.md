@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Helaman Ewerton
 - 👀 I’m Web Developmer and System Analyst.
-- 🌱 I’m currently working as a Dev on Lab Management Softwares for Global companies as PepsiCo and BASF.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 You cand reach me at ewerton.webdev@gmail.com.
 
