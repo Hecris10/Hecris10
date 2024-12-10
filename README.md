@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Helaman Ewerton
-- 👀 I’m Web Developmer and System Analyst.
+- 👀 I’m a Sofware Engineer
 - 💞️ I’m looking to collaborate on projects.
 - 📫 You cand reach me at ewerton.webdev@gmail.com.
 
